@@ -1,0 +1,5 @@
+Select: Kan je alleen dingen selecteren 
+Delete: Kan je alleen dingen weg halen
+Insert: kan je alleen dingen inzetten
+Update: kan je alleen dingen Updaten
+Execute: Ik weet het niet heb het niet gebruikt
