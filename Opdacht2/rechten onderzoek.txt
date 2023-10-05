@@ -1,5 +1,9 @@
-Select: Kan je alleen dingen selecteren 
-Delete: Kan je alleen dingen weg halen
-Insert: kan je alleen dingen inzetten
-Update: kan je alleen dingen Updaten
-Execute: Ik weet het niet heb het niet gebruikt
+Create: kan ik dingen me maken so dat ik een tabel of daigram kan maken
+de hacker kan dingen maken
+ 
+Drop: Ik kan dingen er instopen
+de hacker kan dingen laten dropen zo dat je het kan zien
+
+index
+
+impersonate
